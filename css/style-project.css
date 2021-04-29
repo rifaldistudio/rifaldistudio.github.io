@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+/* 
+
+color palette :
+Background #282a36 
+text #f286c4
+code #58b845
+snippet #1b1b1
+
+*/
+
+/* Button Properties */
+
+button {
+    text-decoration: none;
+    padding: 12px 50px;
+    font-size: 1.2em;
+    border: solid white 0px;
+    border-radius: 10px;
+    color: white;
+    background-color: #58b845;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #f286c4;
+}
+
+i {
+    margin-left: 18px;
+    color: #58b845;
+    transition: 0.3s;
+}
+
+i:hover {
+    color:#f286c4 ;
+}
+
+.ctn {
+    display: flex;
+    align-items: center;
+}
+
+.ctn a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.ctn a:hover {
+    text-decoration: none;
+    color: #282a36 ;
+}
+
+/* End of Button Properties */
+
+#in-hero h2 {
+    font-family: manrope;
+    color: #282a36 ;
+}
+
+#in-hero h1 {
+    font-family: manrope;
+    font-size: 58px;
+    color: #58b845;
+    transition: 0.3s;
+}
+
+#in-hero h1:hover {
+    color: #f286c4;
+}
+
+#in-hero p {
+    font-family: manrope;
+    color: #282a36 ;
+}
+
+.ig-post img {
+    margin: 10px 10px;
+}
