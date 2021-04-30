@@ -22,6 +22,10 @@ snippet #1b1b1
 
 /* Global CSS */
 
+html {
+    scroll-behavior: smooth;
+}
+
 h1, h2, h3 {
     font-family: manrope;
     color: #f286c4;
