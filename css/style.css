@@ -130,19 +130,16 @@ hr {
     color: #58b845;
 }
 
-.card-box {
-    width: 500px;
-    border: solid #f286c4 px;
+.card {
+    border: solid #58b845 1.5px;
     border-radius: 18px;
-    padding: 0px 40px;
-    margin: 40px 0px;
+    margin : 15px 0px;
+    padding: 40px 40px;
 }
 
 #in-work p {
     color: #282a36 ;
 }
-
-
 
 .display-work{
     display: flex;
