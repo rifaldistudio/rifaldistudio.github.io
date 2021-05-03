@@ -33,18 +33,16 @@ h1, h2, h3 {
 
 h1 {
     font-family: manrope;
-    font-weight: 800;
 }
 
 h2 {
     font-size: manrope;
-    font-weight: 600;
+
 }
 
 p {
     font-family: manrope;
     color: white;
-    font-weight: 200;
 }
 
 button {
